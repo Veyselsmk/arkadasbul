@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940064004637",
+    "project_id": "friend-circle-66cb3",
+    "storage_bucket": "friend-circle-66cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940064004637:android:979387e3f193e36cbbc4f4",
+        "android_client_info": {
+          "package_name": "com.ibrahim.sengun.friend_circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940064004637-bg8eql0ds4rs183krrmjg2i1lor1hhof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS3Bi0-P9CScwyjWlvvnYYcz8r_nZwmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940064004637-bg8eql0ds4rs183krrmjg2i1lor1hhof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
